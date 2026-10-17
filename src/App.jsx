@@ -284,7 +284,7 @@ export default function App() {
   return (
     <div className="app">
       <header className="hero">
-        <p className="eyebrow">CATERING MANAGEMENT</p>
+        <p className="eyebrow">MANIKANTA BIRIYANI POINT</p>
         <h1>🍽️ Catering Menu</h1>
 
         {currentPage === "menu" ? (
